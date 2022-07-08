@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/LwinHtooA3ng/LwinHtooA3ng/blob/main/code.jpg" align="center" style="width: 100%" />
+</div>  
+
 ### Hi there 👋
 
 <!--
