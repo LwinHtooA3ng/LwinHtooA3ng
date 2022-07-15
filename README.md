@@ -1,5 +1,5 @@
 <div align="center">
-![](https://github.com/LwinHtooA3ng/LwinHtooA3ng/blob/main/minions.gif)
+  ![](https://github.com/LwinHtooA3ng/LwinHtooA3ng/blob/main/minions.gif)
 </div>  
 
 <h1 align="center">Hi 👋, I'm Lwin Htoo</h1>
