@@ -1,5 +1,5 @@
 <div align="center">
-![](https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy-downsized-large.gif)
+![](https://github.com/LwinHtooA3ng/LwinHtooA3ng/blob/main/minions.gif)
 </div>  
 
 <h1 align="center">Hi 👋, I'm Lwin Htoo</h1>
