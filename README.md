@@ -1,6 +1,4 @@
-<div align="center">
-  ![](https://github.com/LwinHtooA3ng/LwinHtooA3ng/blob/main/minions.gif)
-</div>  
+![](https://github.com/LwinHtooA3ng/LwinHtooA3ng/blob/main/minions.gif)
 
 <h1 align="center">Hi 👋, I'm Lwin Htoo</h1>
 <h3 align="center">Web Developer</h3>
