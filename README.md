@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/LwinHtooA3ng/LwinHtooA3ng/blob/main/code.jpg" align="center" style="width: 100%" />
+![](https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy-downsized-large.gif)
 </div>  
 
 <h1 align="center">Hi 👋, I'm Lwin Htoo</h1>
